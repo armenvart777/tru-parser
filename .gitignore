@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.db
+credentials.json
+token.json
+progress.json
+*.json
+*.csv
+*.xlsx
+результат*
+catalog.json
