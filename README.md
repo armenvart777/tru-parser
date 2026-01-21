@@ -40,3 +40,5 @@ python main.py --test 12-34-56.123
 ## Стек
 
 Python 3.11+, aiohttp, google-api-python-client
+
+<!-- 2026-01-21 -->
